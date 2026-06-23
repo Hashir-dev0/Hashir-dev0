@@ -4,7 +4,7 @@
 <p align="left">
   <img src="https://img.shields.io/badge/Maintained%3F-yes-brightgreen.svg" alt="Maintained" />
   <img src="https://img.shields.io/badge/Open%20For-Freelancing%20%2F%20Full%20Time%20Roles-blueviolet" alt="Open for work" />
-  <img src="https://img.shields.io/badge/Vibe-Cool%20Coder-orange" alt="Cool Coder" />
+  <img src="https://img.shields.io/badge/Cool%20Coder-orange" alt="Cool Coder" />
 </p>
 
 ---
