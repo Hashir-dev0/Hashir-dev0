@@ -61,7 +61,7 @@ Agar koi complex system design karwana ho ya AI-powered web app banwani ho, feel
 
 - 📧 **Email:** [hashirarain908@gmail.com](mailto:hashirarain908@gmail.com)
 - 📞 **Phone:** +92 333 2211908
-- 💼 **LinkedIn:** https://www.linkedin.com/in/hashir-arain-5ba089381?utm_source=share_via&utm_content=profile&utm_medium=member_android
+- 💼 **LinkedIn:** https://www.linkedin.com/in/hashir-arain-5ba089381?
 
 ---
 <p align="center">
